@@ -39,7 +39,7 @@ Then you should have Prism Launcher set up!
 Next, we need to create an instance. Go to the top left
 and click "Add Instance".
 
-![image.png](2_Cloudflare + Modflared Client Setup Guide_image.png)
+![image.png](<2_Cloudflare + Modflared Client Setup Guide_image.png>)
 
 A popup like this should show up. You can leave everything
 default ***except*** changing the modloader. Scroll down and
@@ -47,7 +47,7 @@ select *Fabric* then hit Ok.
 
 
 
-![image.png](6_Cloudflare + Modflared Client Setup Guide_image.png)
+![image.png](<6_Cloudflare + Modflared Client Setup Guide_image.png>)
 
 > #### Note
 >
@@ -63,17 +63,17 @@ And now we have our first instance set up!
 Select your instance if it is not already. A bar should be
 visible on the right. Select "Edit".
 
-![image.png](1_Cloudflare + Modflared Client Setup Guide_image.png)
+![image.png](<1_Cloudflare + Modflared Client Setup Guide_image.png>)
 
 Once there, select "Mods" then "Download Mods".
 
-![image.png](5_Cloudflare + Modflared Client Setup Guide_image.png)
+![image.png](<5_Cloudflare + Modflared Client Setup Guide_image.png>)
 
 Select "Fabric API" and "Modflared" from the mods list. You'll
 have to search for Modflared. Then press review and confirm,
 make sure both are selected, then hit OK.
 
-![image.png](3_Cloudflare + Modflared Client Setup Guide_image.png)
+![image.png](<3_Cloudflare + Modflared Client Setup Guide_image.png>)
 
 Now we have the mods installed! Thats all the hard parts.
 
@@ -86,7 +86,7 @@ it will take a minute.
 Once the game is launched, click through until you get to the
 main menu. Click Multiplayer, then Direct Connection.
 
-![image.png](4_Cloudflare + Modflared Client Setup Guide_image.png)
+![image.png](<4_Cloudflare + Modflared Client Setup Guide_image.png>)
 
 
 The server address is in the discord for privacy.

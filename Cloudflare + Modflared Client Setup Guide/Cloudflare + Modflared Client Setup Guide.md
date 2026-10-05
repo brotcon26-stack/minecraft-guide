@@ -30,7 +30,7 @@ you have it installed, go to the top right corner where
 it says to log in to your account, and do so. This
 account must own Minecraft of course.
 
-![image.png](Cloudflare + Modflared Client Setup Guide_image.png)
+![image.png](<Cloudflare + Modflared Client Setup Guide_image.png>)
 
 Then you should have Prism Launcher set up!
 

@@ -1,0 +1,94 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.106.0",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "CMdQstxVAeKu",
+			"notePath": [
+				"CMdQstxVAeKu"
+			],
+			"title": "Cloudflare + Modflared Client Setup Guide",
+			"notePosition": 70,
+			"prefix": null,
+			"isExpanded": false,
+			"type": "code",
+			"mime": "text/x-markdown",
+			"attributes": [
+				{
+					"type": "label",
+					"name": "displayMode",
+					"value": "split",
+					"isInheritable": false,
+					"position": 10
+				},
+				{
+					"type": "label",
+					"name": "printScale",
+					"value": "0.9",
+					"isInheritable": false,
+					"position": 20
+				}
+			],
+			"dataFileName": "Cloudflare + Modflared Client Setup Guide.md",
+			"attachments": [
+				{
+					"attachmentId": "1SpW3Giu8rkv",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "Cloudflare + Modflared Client Setup Guide_image.png"
+				},
+				{
+					"attachmentId": "6sitz4JKyH7y",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "1_Cloudflare + Modflared Client Setup Guide_image.png"
+				},
+				{
+					"attachmentId": "FnmcIqYs0sSX",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "2_Cloudflare + Modflared Client Setup Guide_image.png"
+				},
+				{
+					"attachmentId": "Tyn12Gwl2cG7",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "3_Cloudflare + Modflared Client Setup Guide_image.png"
+				},
+				{
+					"attachmentId": "UHWC5wE5gErH",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "4_Cloudflare + Modflared Client Setup Guide_image.png"
+				},
+				{
+					"attachmentId": "wjMeGMF9UwIi",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "5_Cloudflare + Modflared Client Setup Guide_image.png"
+				},
+				{
+					"attachmentId": "XIRocy3DGpmA",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "6_Cloudflare + Modflared Client Setup Guide_image.png"
+				}
+			]
+		}
+	]
+}
